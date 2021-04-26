@@ -28,7 +28,7 @@ Two classification approaches are studied here:
 - Sequential neural network approach based on the tensorflow library. 
 
 ## **Classification Results**
-To demonstrate the effectiveness of both classification approaches, the main results are shown below (a more detailed description can be found in the report). They are presented in the form of confusion matrices. Clearly, classification accuracy is high for all three classes, with confusion matrices reflecting that.
+To demonstrate the effectiveness of both classification approaches, the main results are shown below (a more detailed description can be found in the report). They are presented in the form of confusion matrices. Clearly, classification accuracy is high (above 90%) for all three classes, with confusion matrices reflecting that. 
 
 ### SVM Confusion Matrix
 ![](img/svmcm.png)
