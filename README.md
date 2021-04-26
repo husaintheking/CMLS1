@@ -6,7 +6,7 @@
 
 This project implements a classifier system able to predict the audio effects used in recordings of electric guitar focusing in particular on distinguishing clean (no FX), distortion, and tremolo signals. 
 
-The audio dataset is the [IDMT-SMT-Audio-Effects database](https://www.idmt.fraunhofer.de/en/business_units/m2d/smt/audio_effects.html), which is a large dataset for automatic detection of audio effects in recordings of electric guitar and bass and related signal processing.
+The audio dataset is taken from the [IDMT-SMT-Audio-Effects database](https://www.idmt.fraunhofer.de/en/business_units/m2d/smt/audio_effects.html), which is a large dataset for automatic detection of audio effects in recordings of electric guitar and bass and related signal processing.
 
 To develop the classification algorithm, the following features are considered: 
 
