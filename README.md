@@ -40,5 +40,5 @@ To demonstrate the effectiveness of both classification approaches, the main res
 [Project Report](https://docs.google.com/document/d/1m-M3qP3C9z6Qg7EcXej9O9Hzm-puHk-ThQ6Iwsc-UcY/edit?usp=sharing)
  
 ## **Note** 
-To run the code, it is reccomended to use **[this dataset](https://drive.google.com/drive/folders/13iT-wDLOzV7XQOBOuZF7TiovgK9oDecQ?usp=sharing)**, which has only the audio files that are concerned with this project(from the aforementioned database). It is also important to pay attention to the external file path within the code to ensure correct access to this dataset.
+To run the code properly, it is reccomended to use **[this dataset](https://drive.google.com/drive/folders/13iT-wDLOzV7XQOBOuZF7TiovgK9oDecQ?usp=sharing)**, which has only the audio files that are concerned with this project(from the aforementioned database). It is also important to pay attention to the external file path within the code to ensure correct access to this dataset.
 
