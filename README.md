@@ -1,6 +1,6 @@
 # **Guitar Effects Classifications**
 
-![](img/pedals.jpg)
+<img src="pedals.jpg" alt="drawing" width="200"/>
 
 ## **Project**
 
