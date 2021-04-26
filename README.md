@@ -1,4 +1,4 @@
-# **Guitar Effects Classifications**
+# **Audio Effects Classifications**
 
 <img src="img/pedals.jpg" alt="pedals" width="200"/>
 
